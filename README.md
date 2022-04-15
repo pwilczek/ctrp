@@ -5,7 +5,7 @@ Let's imagine some animal specie _X_.
 The following rules were proven statistically for _X_:
 - _X_ "creates" new _X_ every 7 days
 
-Let's assume we define population of _Xs_ like:
+Let's assume we defined population of _Xs_ like:
 ```
 3,4,3,1,2
 ```
