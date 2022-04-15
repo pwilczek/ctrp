@@ -21,5 +21,20 @@ public class FurtherProcessing {
         assert i.next() == 2;
         assert i.next() == 0;
         assert i.next() == 1;
+        assert i.next() == 2;
+        assert i.next() == 3;
+        assert i.next() == 4;
+        assert i.next() == 4;
+        assert i.next() == 5;
+        assert i.next() == 2;
+        assert i.next() == 3;
+        assert i.next() == 4;
+        assert i.next() == 4;
+        assert i.next() == 4;
+        assert i.next() == 5;
+        assert i.next() == 5;
+        assert i.next() == 6;
+        assert i.next() == 6;
+        assert i.next() == 7;
     }
 }
